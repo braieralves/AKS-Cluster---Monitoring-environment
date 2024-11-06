@@ -11,6 +11,9 @@
 ########################################################################################################
 
 # How to use this script
+
+# ATTENTION! Don't change anything in this script. Just run it :)
+
 # 1 - Access Azure Portal > Cloud Shell > Bash 
 # 2 - Create a file called "aks-monitoring.sh" - Command "nano aks-monitoring.sh"
 # 3 - Copy the content of this script
@@ -22,7 +25,7 @@
 
 # This take some minutes to create the complete environment
 
-# ATTENTION! Don't change anything in this script. Just run it :)
+# If the message "The command requires the extension amg. Do you want to install it now?" - Please, accept it.
 
 ########################################################################################################
 
