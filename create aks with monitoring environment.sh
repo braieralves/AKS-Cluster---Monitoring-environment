@@ -22,6 +22,8 @@
 
 # This take some minutes to create the complete environment
 
+# ATTENTION! Don't change anything in this script. Just run it :)
+
 ########################################################################################################
 
 # Script execution start!!!!
