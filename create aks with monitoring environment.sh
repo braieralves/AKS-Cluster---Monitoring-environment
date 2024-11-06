@@ -15,6 +15,7 @@
 # 2 - Create a file called "aks-monitoring.sh" - Command "nano aks-monitoring.sh"
 # 3 - Copy the content of this script
 # 4 - Paste the copied content in the file "aks-monitoring.sh" - Right click and "Paste"
+# 5 - Save the content - Commmand "CTRL + o"
 # 5 - Give teh execution permission to the file "aks-monitoring.sh" - Command "chmod +x aks-monitoring.sh"
 # 6 - Execute the script with command "sh aks-monitoring.sh"
 # 7 - Inform the names of the resources
