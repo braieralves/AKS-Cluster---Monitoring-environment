@@ -33,19 +33,19 @@
 # Script execution start!!!!
 
 # Choose resources names
-echo "Choose the Resource Group name"
+echo "Choose a name for your Resource Group"
 read rg_name
 
-echo "Choose the AKS name"
+echo "Choose a name for your AKS cluster"
 read aks_name
 
-echo "Choose the Log Analytics Workspace name"
+echo "Choose a name for your Log Analytics Workspace"
 read law_name
 
-echo "Choose the Managed Prometheus name"
+echo "Choose a name for your Managed Prometheus"
 read amw_name
 
-echo "Choose the Managed Grafana name"
+echo "Choose a name for your Managed Grafana"
 read amg_name
 
 
